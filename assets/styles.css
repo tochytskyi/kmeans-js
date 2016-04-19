@@ -1,0 +1,16 @@
+canvas {
+	display: block;
+	margin: 10px auto;
+	border: 1px solid black;
+}
+#colors-result {
+	width: 100px;
+	margin-top: 20px;
+	margin: auto;
+}
+#colors-result > span {
+	width: 100%;
+	height: 50px;
+	display: block;
+	margin: 2px;
+}
